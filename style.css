@@ -17,3 +17,13 @@ p,
 span {
   color: #d8d9dc;
 }
+
+/* Misc */
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
