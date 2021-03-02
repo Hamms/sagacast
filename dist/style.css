@@ -1,0 +1,29 @@
+/* Dark Mode */
+
+html {
+  background-color: #232327;
+}
+
+a,
+button,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+label,
+p,
+span {
+  color: #d8d9dc;
+}
+
+/* Misc */
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
